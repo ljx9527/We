@@ -14,3 +14,4 @@ Project workspace for ongoing development.
 - Document decisions in `docs/`.
 - Run relevant checks before committing.
 
+"# We" 
