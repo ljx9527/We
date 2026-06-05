@@ -1,11 +1,12 @@
-# We
+# ljx9527 Personal Website
 
-Project workspace for ongoing development.
+Personal website for ljx9527, ready to publish with GitHub Pages.
 
 ## Structure
 
-- `src/` - application source files
-- `tests/` - automated tests
+- `index.html` - website content
+- `styles.css` - responsive visual design
+- `script.js` - small browser enhancements
 - `docs/` - project notes and maintenance records
 
 ## Maintenance
@@ -14,4 +15,14 @@ Project workspace for ongoing development.
 - Document decisions in `docs/`.
 - Run relevant checks before committing.
 
-"# We" 
+## Local Preview
+
+Open `index.html` in a browser.
+
+## Publish
+
+In GitHub repository settings, enable Pages with:
+
+- Source: `Deploy from a branch`
+- Branch: `main`
+- Folder: `/root`

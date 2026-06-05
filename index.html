@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="ljx9527 的个人网站，展示个人简介、项目方向、联系方式与近期动态。"
+    >
+    <title>ljx9527 | Personal Site</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="返回首页">ljx9527</a>
+      <nav class="nav" aria-label="主导航">
+        <a href="#about">关于</a>
+        <a href="#work">项目</a>
+        <a href="#contact">联系</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero__media" aria-hidden="true">
+          <div class="orb orb--one"></div>
+          <div class="orb orb--two"></div>
+          <div class="grid-lines"></div>
+        </div>
+        <div class="hero__content">
+          <p class="eyebrow">Personal Website</p>
+          <h1 id="hero-title">ljx9527</h1>
+          <p class="hero__lead">
+            这里是我的个人主页，用来记录项目、想法和正在成长中的作品。
+          </p>
+          <div class="hero__actions">
+            <a class="button button--primary" href="#work">查看项目</a>
+            <a class="button button--ghost" href="https://github.com/ljx9527" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="section section--split">
+        <div>
+          <p class="eyebrow">About</p>
+          <h2>专注把想法做成可运行的东西。</h2>
+        </div>
+        <div class="section__body">
+          <p>
+            我喜欢探索技术、工具和产品，把零散灵感整理成清晰、可维护、能持续迭代的作品。
+            这个网站会作为公开入口，持续更新项目进展与个人资料。
+          </p>
+          <dl class="facts">
+            <div>
+              <dt>位置</dt>
+              <dd>China</dd>
+            </div>
+            <div>
+              <dt>方向</dt>
+              <dd>Web / Tools / Automation</dd>
+            </div>
+            <div>
+              <dt>状态</dt>
+              <dd>Building in public</dd>
+            </div>
+          </dl>
+        </div>
+      </section>
+
+      <section id="work" class="section">
+        <div class="section__heading">
+          <p class="eyebrow">Work</p>
+          <h2>项目与计划</h2>
+        </div>
+        <div class="project-grid">
+          <article class="project-card">
+            <p class="project-card__tag">Website</p>
+            <h3>个人主页</h3>
+            <p>用于展示个人信息、项目链接、维护记录，并通过 GitHub Pages 自动发布。</p>
+          </article>
+          <article class="project-card">
+            <p class="project-card__tag">Repository</p>
+            <h3>We</h3>
+            <p>当前站点的源码仓库，后续可以扩展博客、作品集、在线简历或实验工具。</p>
+          </article>
+          <article class="project-card">
+            <p class="project-card__tag">Next</p>
+            <h3>更多内容</h3>
+            <p>预留项目位，适合放应用截图、发布链接、技术说明和成长记录。</p>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="section contact">
+        <div>
+          <p class="eyebrow">Contact</p>
+          <h2>保持连接</h2>
+        </div>
+        <div class="contact__links">
+          <a href="mailto:ptlijingxi2026@proton.me">ptlijingxi2026@proton.me</a>
+          <a href="https://github.com/ljx9527" target="_blank" rel="noreferrer">github.com/ljx9527</a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>&copy; <span id="year">2026</span> ljx9527</span>
+      <a href="#top">回到顶部</a>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
