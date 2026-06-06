@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">ljx9527 Personal Website</title>
+  <desc id="desc">Social preview image for ljx9527 personal website.</desc>
+  <rect width="1200" height="630" fill="#f7f4ee"/>
+  <path d="M0 0h1200v630H0z" fill="#f7f4ee"/>
+  <path d="M78 86h1044v458H78z" fill="#ffffff" stroke="#d8d0c4" stroke-width="3"/>
+  <g transform="translate(110 125)">
+    <rect width="170" height="170" rx="34" fill="#0f6d6d"/>
+    <path d="M32 112V38h21v56c0 12 6 18 18 18h10v20H67c-22 0-35-14-35-20Z" fill="#f7f4ee"/>
+    <path d="M78 38h23l15 24 15-24h24l-26 39 29 43h-25l-17-27-17 27H75l29-43-26-39Z" fill="#f7f4ee"/>
+    <path d="M40 138h92" stroke="#d69a68" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <text x="330" y="212" fill="#0f6d6d" font-family="Arial, Microsoft YaHei, sans-serif" font-size="34" font-weight="700">Personal Website</text>
+  <text x="330" y="318" fill="#1e2528" font-family="Arial, Microsoft YaHei, sans-serif" font-size="92" font-weight="800">ljx9527</text>
+  <text x="330" y="390" fill="#626b70" font-family="Arial, Microsoft YaHei, sans-serif" font-size="34">Web / Tools / Automation</text>
+  <text x="330" y="448" fill="#b55f32" font-family="Arial, Microsoft YaHei, sans-serif" font-size="28" font-weight="700">github.com/ljx9527/We</text>
+</svg>

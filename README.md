@@ -7,6 +7,7 @@ Personal website for ljx9527, ready to publish with GitHub Pages.
 - `index.html` - website content
 - `styles.css` - responsive visual design
 - `script.js` - small browser enhancements
+- `assets/` - brand mark, favicon, and social preview image
 - `docs/` - project notes and maintenance records
 
 ## Maintenance
